@@ -1,3 +1,4 @@
+- [Obsidian 中文论坛](https://forum-zh.obsidian.md/categories) #obsidian
 - [Windows常用软件 - 电子扫盲 Wiki](https://learnpc.miraheze.org/wiki/Windows%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6)
 - [Materials Project](https://next-gen.materialsproject.org/materials) #化学
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) #github
